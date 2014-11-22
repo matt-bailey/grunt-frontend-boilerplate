@@ -1,0 +1,14 @@
+default:
+  - prod
+dev:
+  - 'concurrent:devFirst'
+  - 'concurrent:devSecond'
+img:
+  - 'concurrent:imgFirst'
+devimg:
+  - dev
+  - img
+prod:
+  - 'concurrent:prodFirst'
+  - 'concurrent:prodSecond'
+  - img
