@@ -1,4 +1,5 @@
 module.exports = {
+
     // Development settings
     dev: {
         options: {
@@ -13,6 +14,7 @@ module.exports = {
             ext: '.css'
         }]
     },
+
     // Production settings
     prod: {
         options: {
