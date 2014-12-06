@@ -18,6 +18,16 @@ Then install the dependencies:
 npm install
 ```
 
+## Do The Things
+
+Simply run:
+
+```bash
+grunt
+```
+
+A number of other task aliases are available, such as `grunt prod` and `grunt dev`. Full details can be found in the [accompanying article](http://mattbailey.io/a-beginners-guide-to-grunt-redux/).
+
 ## Included Stuff
 
 - [`time-grunt`](https://github.com/sindresorhus/time-grunt)
@@ -30,16 +40,6 @@ npm install
 - [`grunt-contrig-jshint`](https://github.com/gruntjs/grunt-contrib-jshint)
 - [`jshint-stylish`](https://github.com/sindresorhus/jshint-stylish)
 - [`grunt-contrib-watch`](https://github.com/gruntjs/grunt-contrib-watch)
-
-## Do The Things
-
-Simply run:
-
-```bash
-grunt
-```
-
-A number of other task aliases are available, such as `grunt prod` and `grunt dev`. Full details can be found in the [accompanying article](http://mattbailey.io/a-beginners-guide-to-grunt-redux/).
 
 ## Help...
 
