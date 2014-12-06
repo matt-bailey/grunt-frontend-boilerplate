@@ -26,7 +26,7 @@ Simply run:
 grunt
 ```
 
-A number of task aliases are available, such as `grunt prod` and `grunt dev`. Full details can be found in the accompanying article.
+A number of other task aliases are available, such as `grunt prod` and `grunt dev`. Full details can be found in the [accompanying article](http://mattbailey.io/a-beginners-guide-to-grunt-redux/).
 
 ## Help...
 
