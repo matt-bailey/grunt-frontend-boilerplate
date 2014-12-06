@@ -18,7 +18,20 @@ Then install the dependencies:
 npm install
 ```
 
-## Do The ‘Things’
+## Included Stuff
+
+- [`time-grunt`](https://github.com/sindresorhus/time-grunt)
+- [`load-grunt-config`](https://github.com/firstandthird/load-grunt-config)
+- [`grunt-concurrent`](https://github.com/sindresorhus/grunt-concurrent)
+- [`grunt-contrib-clean`](https://github.com/gruntjs/grunt-contrib-clean)
+- [`grunt-contrib-imagemin`](https://github.com/gruntjs/grunt-contrib-imagemin)
+- [`grunt-sass`](https://github.com/sindresorhus/grunt-sass)
+- [`grunt-contrib-uglify`](https://github.com/gruntjs/grunt-contrib-uglify)
+- [`grunt-contrig-jshint`](https://github.com/gruntjs/grunt-contrib-jshint)
+- [`jshint-stylish`](https://github.com/sindresorhus/jshint-stylish)
+- [`grunt-contrib-watch`](https://github.com/gruntjs/grunt-contrib-watch)
+
+## Do The Things
 
 Simply run:
 
