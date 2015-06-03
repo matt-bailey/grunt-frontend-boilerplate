@@ -1,6 +1,6 @@
 {
   "name": "grunt-frontend-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple Grunt boilerplate for frontend workflow",
   "devDependencies": {
     "grunt": "^0.4.5",
